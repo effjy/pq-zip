@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=PQ-Zip
+GenericName=Post-Quantum Archiver
+Comment=Compress and encrypt files and folders with post-quantum security
+Exec=pqzip
+Icon=pqzip
+Terminal=false
+Categories=Utility;Archiving;Compression;Security;GTK;
+Keywords=zip;compress;archive;encrypt;post-quantum;pqc;kyber;security;pqz;
+StartupNotify=true
+StartupWMClass=pqzip
