@@ -1,6 +1,6 @@
 <div align="center">
 
-# PQ-Zip
+<a href="https://github.com/effjy/pq-zip/"><img src="titles/pq-zip-title.svg" height="52" alt="PQ-Zip"></a>
 
 **One of the first post-quantum _compressing_ archivers.**
 
